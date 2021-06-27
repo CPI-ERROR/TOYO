@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073576755630",
+    "project_id": "toyo-b15eb",
+    "storage_bucket": "toyo-b15eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073576755630:android:05290385f95aedae5dc83f",
+        "android_client_info": {
+          "package_name": "com.example.toyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073576755630-0h5qo1p6fukjhq52vk7f0khuneoadb55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toyo",
+            "certificate_hash": "566a0ba4236f4fe011e0075e035cd7e83441aa7c"
+          }
+        },
+        {
+          "client_id": "1073576755630-29th8cvb4hrn83cffm2idbc1p9nuqk24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toyo",
+            "certificate_hash": "46fa3b4d4382b7e08689428c5611ffa6c02721fa"
+          }
+        },
+        {
+          "client_id": "1073576755630-0h9ehn9sbpgricrie6tpuu1dosmc4pj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6iIzYXGDqKdJy06aljI7J9A-LivI8fhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073576755630-0h9ehn9sbpgricrie6tpuu1dosmc4pj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
